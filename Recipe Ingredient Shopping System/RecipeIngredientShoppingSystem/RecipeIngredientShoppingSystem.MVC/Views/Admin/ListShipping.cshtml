@@ -1,0 +1,114 @@
+﻿@model IEnumerable<RecipeIngredientShoppingSystem.DataEntity.Shipping>
+
+@{
+    ViewBag.Title = "ListShipping";
+}
+<style>
+    .fa {
+        margin-right: 3px;
+    }
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2 class="text-center">List Shipping</h2>
+<br />
+
+
+<table class=" table table-striped">
+    <thead class="table-heading" style="background-color: #004e89;color: white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ShippingNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpectedDeliveryDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (var item in Model) { <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ExpectedDeliveryDate)
+                </td>
+                <td>
+                    <a href="@Url.Action("EditShipping","Admin",new {id= item.ShippingNumber})" class="btn btn-default"><i class="fa fa-pencil"></i>Edit</a>
+                </td>
+            </tr>
+        }
+
+</table>
+@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+
+
+    </script>
+}

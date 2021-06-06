@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Sprint1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cart">
+    <Key>
+      <PropertyRef Name="CartId" />
+    </Key>
+    <Property Name="CartId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="IngredientID" Type="Int32" />
+    <Property Name="IngredientQuantity" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="Ingredient" Relationship="Self.FK__Cart__Ingredient__2CBDA3B5" FromRole="Cart" ToRole="Ingredient" />
+    <NavigationProperty Name="UserLogin" Relationship="Self.FK__Cart__UserID__2BC97F7C" FromRole="Cart" ToRole="UserLogin" />
+  </EntityType>
+  <EntityType Name="CartRepository">
+    <Key>
+      <PropertyRef Name="CartId" />
+    </Key>
+    <Property Name="CartId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="IngredientID" Type="Int32" />
+    <Property Name="IngredientQuantity" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="Ingredient" Relationship="Self.FK__CartRepos__Ingre__318258D2" FromRole="CartRepository" ToRole="Ingredient" />
+    <NavigationProperty Name="UserLogin" Relationship="Self.FK__CartRepos__UserI__308E3499" FromRole="CartRepository" ToRole="UserLogin" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MobileNumber" Type="String" MaxLength="13" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Ingredient">
+    <Key>
+      <PropertyRef Name="IngredientId" />
+    </Key>
+    <Property Name="IngredientId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RecipeId" Type="Int32" />
+    <Property Name="ManufacturerName" Type="String" MaxLength="70" FixedLength="false" Unicode="false" />
+    <Property Name="ManufacturerDate" Type="DateTime" Precision="3" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ExpiryDate" Type="DateTime" Precision="3" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Carts" Relationship="Self.FK__Cart__Ingredient__2CBDA3B5" FromRole="Ingredient" ToRole="Cart" />
+    <NavigationProperty Name="CartRepositories" Relationship="Self.FK__CartRepos__Ingre__318258D2" FromRole="Ingredient" ToRole="CartRepository" />
+    <NavigationProperty Name="Recipe" Relationship="Self.FK__Ingredien__Recip__28ED12D1" FromRole="Ingredient" ToRole="Recipe" />
+  </EntityType>
+  <EntityType Name="OrderIngredient">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="DateOfOrder" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="MobileNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DeliveryAddress" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="TotalBillAmount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="NoOfIngredients" Type="Int32" />
+    <Property Name="GrandTotal" Type="Decimal" Precision="18" Scale="2" />
+    <NavigationProperty Name="UserLogin" Relationship="Self.FK__OrderIngr__UserI__345EC57D" FromRole="OrderIngredient" ToRole="UserLogin" />
+    <NavigationProperty Name="Shippings" Relationship="Self.FK__Shipping__OrderI__373B3228" FromRole="OrderIngredient" ToRole="Shipping" />
+  </EntityType>
+  <EntityType Name="Recipe">
+    <Key>
+      <PropertyRef Name="RecipeId" />
+    </Key>
+    <Property Name="RecipeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Ingredients" Relationship="Self.FK__Ingredien__Recip__28ED12D1" FromRole="Recipe" ToRole="Ingredient" />
+  </EntityType>
+  <EntityType Name="Shipping">
+    <Key>
+      <PropertyRef Name="ShippingNumber" />
+    </Key>
+    <Property Name="ShippingNumber" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderId" Type="Int32" Nullable="false" />
+    <Property Name="UserID" Type="Int32" />
+    <Property Name="ExpectedDeliveryDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="OrderIngredient" Relationship="Self.FK__Shipping__OrderI__373B3228" FromRole="Shipping" ToRole="OrderIngredient" />
+    <NavigationProperty Name="UserLogin" Relationship="Self.FK__Shipping__UserID__382F5661" FromRole="Shipping" ToRole="UserLogin" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="UserLogin">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Role" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MobileNumber" Type="String" MaxLength="13" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SecurityQuestion" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SecurityAnswer" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Carts" Relationship="Self.FK__Cart__UserID__2BC97F7C" FromRole="UserLogin" ToRole="Cart" />
+    <NavigationProperty Name="CartRepositories" Relationship="Self.FK__CartRepos__UserI__308E3499" FromRole="UserLogin" ToRole="CartRepository" />
+    <NavigationProperty Name="OrderIngredients" Relationship="Self.FK__OrderIngr__UserI__345EC57D" FromRole="UserLogin" ToRole="OrderIngredient" />
+    <NavigationProperty Name="Shippings" Relationship="Self.FK__Shipping__UserID__382F5661" FromRole="UserLogin" ToRole="Shipping" />
+  </EntityType>
+  <Association Name="FK__Cart__Ingredient__2CBDA3B5">
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ingredient">
+        <PropertyRef Name="IngredientId" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="IngredientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Cart__UserID__2BC97F7C">
+    <End Role="UserLogin" Type="Self.UserLogin" Multiplicity="0..1" />
+    <End Role="Cart" Type="Self.Cart" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserLogin">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Cart">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CartRepos__Ingre__318258D2">
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="CartRepository" Type="Self.CartRepository" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ingredient">
+        <PropertyRef Name="IngredientId" />
+      </Principal>
+      <Dependent Role="CartRepository">
+        <PropertyRef Name="IngredientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CartRepos__UserI__308E3499">
+    <End Role="UserLogin" Type="Self.UserLogin" Multiplicity="0..1" />
+    <End Role="CartRepository" Type="Self.CartRepository" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserLogin">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="CartRepository">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Ingredien__Recip__28ED12D1">
+    <End Role="Recipe" Type="Self.Recipe" Multiplicity="0..1" />
+    <End Role="Ingredient" Type="Self.Ingredient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Recipe">
+        <PropertyRef Name="RecipeId" />
+      </Principal>
+      <Dependent Role="Ingredient">
+        <PropertyRef Name="RecipeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderIngr__UserI__345EC57D">
+    <End Role="UserLogin" Type="Self.UserLogin" Multiplicity="0..1" />
+    <End Role="OrderIngredient" Type="Self.OrderIngredient" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserLogin">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="OrderIngredient">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shipping__OrderI__373B3228">
+    <End Role="OrderIngredient" Type="Self.OrderIngredient" Multiplicity="1" />
+    <End Role="Shipping" Type="Self.Shipping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrderIngredient">
+        <PropertyRef Name="OrderId" />
+      </Principal>
+      <Dependent Role="Shipping">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Shipping__UserID__382F5661">
+    <End Role="UserLogin" Type="Self.UserLogin" Multiplicity="0..1" />
+    <End Role="Shipping" Type="Self.Shipping" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserLogin">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Shipping">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Sprint1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Carts" EntityType="Self.Cart" />
+    <EntitySet Name="CartRepositories" EntityType="Self.CartRepository" />
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Ingredients" EntityType="Self.Ingredient" />
+    <EntitySet Name="OrderIngredients" EntityType="Self.OrderIngredient" />
+    <EntitySet Name="Recipes" EntityType="Self.Recipe" />
+    <EntitySet Name="Shippings" EntityType="Self.Shipping" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="UserLogins" EntityType="Self.UserLogin" />
+    <AssociationSet Name="FK__Cart__Ingredient__2CBDA3B5" Association="Self.FK__Cart__Ingredient__2CBDA3B5">
+      <End Role="Ingredient" EntitySet="Ingredients" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Cart__UserID__2BC97F7C" Association="Self.FK__Cart__UserID__2BC97F7C">
+      <End Role="UserLogin" EntitySet="UserLogins" />
+      <End Role="Cart" EntitySet="Carts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CartRepos__Ingre__318258D2" Association="Self.FK__CartRepos__Ingre__318258D2">
+      <End Role="Ingredient" EntitySet="Ingredients" />
+      <End Role="CartRepository" EntitySet="CartRepositories" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CartRepos__UserI__308E3499" Association="Self.FK__CartRepos__UserI__308E3499">
+      <End Role="UserLogin" EntitySet="UserLogins" />
+      <End Role="CartRepository" EntitySet="CartRepositories" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Ingredien__Recip__28ED12D1" Association="Self.FK__Ingredien__Recip__28ED12D1">
+      <End Role="Recipe" EntitySet="Recipes" />
+      <End Role="Ingredient" EntitySet="Ingredients" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderIngr__UserI__345EC57D" Association="Self.FK__OrderIngr__UserI__345EC57D">
+      <End Role="UserLogin" EntitySet="UserLogins" />
+      <End Role="OrderIngredient" EntitySet="OrderIngredients" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shipping__OrderI__373B3228" Association="Self.FK__Shipping__OrderI__373B3228">
+      <End Role="OrderIngredient" EntitySet="OrderIngredients" />
+      <End Role="Shipping" EntitySet="Shippings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Shipping__UserID__382F5661" Association="Self.FK__Shipping__UserID__382F5661">
+      <End Role="UserLogin" EntitySet="UserLogins" />
+      <End Role="Shipping" EntitySet="Shippings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

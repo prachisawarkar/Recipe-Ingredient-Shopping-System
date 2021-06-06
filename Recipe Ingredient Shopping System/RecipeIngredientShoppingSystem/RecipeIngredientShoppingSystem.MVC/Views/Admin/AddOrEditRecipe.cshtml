@@ -1,0 +1,260 @@
+﻿@model RecipeIngredientShoppingSystem.DataEntity.Recipe
+@{ ViewBag.Title = "AddOrEditRecipe"; }
+
+
+
+<h2>Add Or Edit Recipe</h2>
+<style>
+    label {
+        color: white;
+        font-size:larger;
+    }
+
+
+
+    body {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+
+
+    .body-content {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+
+    input, select, textarea {
+        max-width: 340px;
+    }
+
+
+
+    .field-validation-error {
+        color: #b94a48;
+        font-size: 18px;
+    }
+
+
+
+    .field-validation-valid {
+        display: none;
+    }
+
+
+
+    input.input-validation-error {
+        border: 1px solid #b94a48;
+    }
+
+
+
+    input[type="checkbox"].input-validation-error {
+        border: 0 none;
+    }
+
+
+
+    .validation-summary-errors {
+        color: #b94a48;
+    }
+
+
+
+    .validation-summary-valid {
+        display: none;
+    }
+
+
+
+    input, textarea {
+        display: block;
+        height: 100%;
+        padding: 5px 10px;
+        background: none;
+        background-image: none;
+        border: 1px solid #a0b3b0;
+        color: #fff;
+        border-radius: 0;
+        transition: border-color .25s ease, box-shadow .25s ease;
+    }
+
+
+
+    .button {
+        border: 1px solid #fff;
+        outline: none;
+        border-radius: 0;
+        padding: 10px 10px;
+        font-weight: 400;
+        background: #2a3843;
+        color: #fff;
+        -webkit-appearance: none;
+    }
+
+
+
+        .button:hover, .button:focus {
+            color: #fff !important;
+        }
+
+
+
+    .form-body {
+        background: rgba(19, 35, 47, 0.9);
+        padding: 20px 40px;
+        max-width: 400px;
+        margin: 30px auto;
+        box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+    }
+
+
+
+    body {
+        background: #fff;
+    }
+    /*label { color: #fff;font-size: 22px;}*/
+
+
+
+    .form-body input, textarea {
+        font-size: 20px;
+    }
+
+
+
+        textarea:focus, input:focus {
+            outline: none;
+        }
+
+
+
+    .table-heading {
+        background-color: #2a3843;
+        color: white;
+    }
+
+
+
+    .add-new {
+        background-color: #1ab188;
+    }
+
+
+
+    h2 {
+        text-align: center;
+        font-weight: bold;
+    }
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+</style>
+
+
+
+
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="form-body" style=" background:linear-gradient(-45deg, #004E82, #5B869A);">
+    @using (Html.BeginForm())
+    {
+@Html.HiddenFor(model => model.RecipeId) @*<div class="form-group">
+        @Html.LabelFor(model => model.RecipeId)
+        @Html.EditorFor(model => model.RecipeId)
+        @Html.ValidationMessageFor(model => model.RecipeId)
+    </div>*@
+
+
+
+                <div class="form-group" style="font-size:large">
+                    @Html.LabelFor(model => model.Name)
+                    @Html.EditorFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div>
+
+
+
+                                <div class="form-group" style="font-size:large">
+                                    @Html.LabelFor(model => model.Description)
+                                    @Html.EditorFor(model => model.Description)
+                                    @Html.ValidationMessageFor(model => model.Description)
+                                </div>
+
+
+
+
+                                                <div class="form-group">
+                                                    <input type="submit" value="Submit" class="btn button" />
+                                                    <input type="reset" value="Reset" class="btn button" />
+
+
+
+                                                </div>}
+</div>
+
+
+
+
+@*@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+    </script>
+    }*@
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval");
+}

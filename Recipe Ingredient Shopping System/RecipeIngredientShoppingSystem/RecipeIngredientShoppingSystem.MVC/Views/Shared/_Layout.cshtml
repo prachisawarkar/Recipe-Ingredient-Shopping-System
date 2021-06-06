@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - RIMS</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/alertify.min.css" rel="stylesheet" />
+    <link href="~/Content/alertifyjs/themes/default.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+    <style>
+       .navbar {
+            background-color: #004e89;
+            color:white;
+        }
+        .navbar-nav > li > a {
+            color:white;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .navbardiv {
+            height: 57px;
+        }
+        .navbar-nav > li:hover {
+            color: black;
+        }
+        
+        .navbar-brand {
+            color: white;
+            font-weight: bold;
+            font-size: 28px;
+        }
+    </style>
+</head>
+
+<body style="background-color: rgba(191,219,247,0.2); font-family:monospace">
+    
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            @*<div class="w3-container w3-padding-64" id="contact">
+                
+                <div class="w3-row w3-padding-32">
+                    <div class="w3-col m6 w3-large w3-margin-bottom">
+                        <div class="text-center">
+                            <i class="fa fa-map-marker" style="width:30px"></i>Nagpur, Maharashtra, India-440022<br>
+                            <i class="fa fa-phone" style="width:30px"></i> Phone: +91 8956626649<br>
+                            <i class="fa fa-envelope" style="width:30px"> </i> Email: rims@gmail.com<br>
+                        </div>
+                        <br />
+                        <div class="text-center">
+                            <div class="w3-container w3-padding-64 w3-center w3-xlarge">
+                                <i class="fa fa-facebook-official w3-hover-opacity"></i>
+                                <i class="fa fa-instagram w3-hover-opacity"></i>
+                                <i class="fa fa-snapchat w3-hover-opacity"></i>
+                                <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+                                <i class="fa fa-twitter w3-hover-opacity"></i>
+                                <i class="fa fa-linkedin w3-hover-opacity"></i>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="text-center">
+                    <img src="~/Images/746cb7dc-1cb4-404f-836c-79d5d1b42f82.jpg" class="img-circle" height="100" width="100">
+                </div>
+            </div>*@
+
+        </footer>
+    </div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+<script src="~/Scripts/alertify.min.js"></script>
+@RenderSection("scripts", required: false)
+</body>
+</html>

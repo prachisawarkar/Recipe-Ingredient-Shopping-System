@@ -1,0 +1,155 @@
+﻿@model RecipeIngredientShoppingSystem.DataEntity.OrderIngredient
+@{
+    ViewBag.Title = "PlaceOrder";
+}
+<style>
+    .cartcontainer {
+        margin-top: 70px;
+    }
+
+    .carttitle {
+        margin-bottom: 40px;
+    }
+
+    .carth4 {
+        font-weight: 700;
+        font-size: x-large;
+    }
+
+    .cartp {
+        font-size: x-large;
+    }
+
+    .quantitylabel {
+        font-size: x-large;
+    }
+
+    .cartbutton:hover {
+        background-color: rgba(0, 78, 137, 0.2);
+    }
+
+    .cartwell {
+        box-shadow: 0px 3px 7px -2px grey;
+        background: linear-gradient(-45deg, #004E82, #5B869A);
+    }
+
+    .addtocartbtn {
+        margin: 18px 0px 0px 60px;
+    }
+    .totalvalues {
+        font-size: x-large;
+    }
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="form-body center-block cartcontainer ">
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(model => model.UserID)
+        @*@Html.HiddenFor(model => model.NoOfIngredients)*@
+        @Html.HiddenFor(model => model.TotalBillAmount)
+        @Html.HiddenFor(model => model.GrandTotal)
+
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="well text-center cartwell">
+                    <h4 class="carth4">Total Count</h4>
+                    <p class="totalvalues">@Request.QueryString["tcount"]</p>
+                    <hr />
+
+                    <h4 class="carth4">Total Amount</h4>
+                    <p class="totalvalues">@Request.QueryString["tamount"]</p>
+                    <br />
+                    <h4 class="carth4">Grand Total(Including Tax)</h4>
+                    <p class="totalvalues">@Request.QueryString["gtotal"]</p>
+                    <br />
+                </div>
+            </div>
+
+            <div class="col-lg-7 col-lg-offset-1 ">
+                <div class="row">
+                    <h2 class="carttitle">Enter Details to Proceed...</h2>
+                </div>
+                <div class="form-group row formdiv">
+                    <div class="col-md-5 quantitylabel">
+                        @Html.LabelFor(model => model.MobileNumber, htmlAttributes: new { @class = "control-label" })
+                    </div>
+                    <div class="col-md-7">
+                        @Html.EditorFor(model => model.MobileNumber, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.MobileNumber, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group row formdiv">
+                    <div class="col-md-5 quantitylabel">
+                        @Html.LabelFor(model => model.DeliveryAddress, htmlAttributes: new { @class = "control-label" })
+                    </div>
+                    <div class="col-md-7">
+                        @Html.EditorFor(model => model.DeliveryAddress, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.DeliveryAddress, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-offset-2 col-lg-3">
+                        <div class="form-group addtocartbtn">
+                            <input type="submit" value="SUBMIT" class="btn btn-lg btn-default cartbutton text" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval");
+}

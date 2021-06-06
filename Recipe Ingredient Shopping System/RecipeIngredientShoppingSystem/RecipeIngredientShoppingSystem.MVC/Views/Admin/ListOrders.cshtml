@@ -1,0 +1,124 @@
+﻿@model IEnumerable<RecipeIngredientShoppingSystem.DataEntity.OrderIngredient>
+
+ 
+
+@{
+    ViewBag.Title = "ListOrders";
+}
+
+<style>
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<h2 class="text-center">Orders</h2>
+
+ 
+
+
+<table class="table table-striped">
+    <thead class="table-heading" style="background-color: #004e89;color: white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MobileNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeliveryAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalBillAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoOfIngredients)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GrandTotal)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DateOfOrder)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MobileNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalBillAmount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NoOfIngredients)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GrandTotal)
+        </td>
+        
+    </tr>
+}
+
+ 
+
+</table>
+ 

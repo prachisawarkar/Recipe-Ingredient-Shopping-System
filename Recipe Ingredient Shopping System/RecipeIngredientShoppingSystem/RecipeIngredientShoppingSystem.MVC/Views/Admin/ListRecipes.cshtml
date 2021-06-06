@@ -1,0 +1,135 @@
+﻿@model IEnumerable<RecipeIngredientShoppingSystem.DataEntity.Recipe>
+
+
+
+@{ ViewBag.Title = "ListRecipes"; }
+
+<style>
+   
+    .addrecipebtn:hover
+    {
+        background-color: rgba(0, 78, 137, 0.2);
+    }
+    .fa {
+        margin-right: 3px;
+    }
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+    
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2 class="text-center">Recipes</h2>
+
+
+
+<p>
+    @*<a href="@Url.Action("AddOrEdit","Recipe")"class="btn btn-default"><i class="fa fa-plus"></i>Add Recipe</a>*@
+    <a href="@Url.Action("AddOrEditRecipe","Admin")" class="btn btn-lg btn-default addrecipebtn"><i class="fa fa-plus"></i>Add Recipe</a>
+</p>
+<table class="table table-striped">
+    <thead class="table-heading" style="background-color: #004e89;color: white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RecipeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.RecipeId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        <a href="@Url.Action("AddOrEditRecipe","Admin",new {id= item.RecipeId})" class="btn btn-default"><i class="fa fa-pencil"></i>Edit</a>
+        <a onclick="Delete(@item.RecipeId)" class="btn btn-default"><i class="fa fa-trash"></i>Delete</a>
+    </td>
+</tr>}
+
+
+
+</table>
+
+
+
+@section scripts{
+    <script>
+        $(function () {
+            var successMessage = '@TempData["SuccessMessage"]'
+            if (successMessage != '')
+                alertify.success(successMessage);
+        });
+
+
+
+        function Delete(id) {
+            alertify.confirm('Recipe Ingredient Online Shopping System', 'Are you sure you want to Delete this Recipe?', function () {
+                window.location.href = '@Url.Action("DeleteRecipe","Admin")/' + id;
+            }, null);
+        }
+    </script>
+}

@@ -1,0 +1,157 @@
+﻿@model IEnumerable<RecipeIngredientShoppingSystem.DataEntity.Shipping>
+
+@{
+    ViewBag.Title = "ViewShippingDetails";
+}
+
+<style>
+    .cartwell {
+        box-shadow: 0px 3px 7px -2px grey;
+        background: linear-gradient(-45deg, #004E82, #5B869A);
+        align
+    }
+
+    .carth4 {
+        font-weight: 700;
+        font-size: x-large;
+        color: white;
+    }
+
+    .totalvalues {
+        font-size: x-large;
+        color:white;
+    }
+
+    .h2shipp {
+        margin: 39px 11px 23px 34px;
+    }
+
+    h1 {
+        font-family: 'Lucida Handwriting';
+        font-size: 50px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .navbar {
+        background-color: #004e89;
+        color: white;
+    }
+
+    .navbar-nav > li > a {
+        color: white;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .navbardiv {
+        height: 57px;
+    }
+
+    .navbar-nav > li:hover {
+        color: black;
+    }
+
+    .navbar-brand {
+        color: white;
+        font-weight: bold;
+        font-size: 28px;
+    }
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "HomeMvc")</li>
+                    <li>@Html.ActionLink("Admin", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Recipes", "ListOfRecipes", "CustomerMVC")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+
+
+@foreach (var item in Model)
+{
+    @*<tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpectedDeliveryDate)
+            </td>
+        </tr>*@
+
+    <div class="row ">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <h2 class="h2shipp">Shipping Details</h2>
+            <div class="well text-center cartwell">
+                <h4 class="carth4">Order Id</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.OrderId)</p>
+                <hr />
+
+                <h4 class="carth4">User Id</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.UserID)</p>
+                <br />
+                <h4 class="carth4">Expected Delivery Date</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.ExpectedDeliveryDate)</p>
+                <br />
+            </div>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+    <h1>
+        Thank You For Shopping
+    </h1>
+}
+
+
+
+@*<div class="row">
+        <div class="col-lg-4">
+            <div class="well text-center cartwell">
+                <h4 class="carth4">Order Id</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.OrderId)</p>
+                <hr />
+
+                <h4 class="carth4">User Id</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.UserID)</p>
+                <br />
+                <h4 class="carth4">Expected Delivery Date</h4>
+                <p class="totalvalues">@Html.DisplayFor(modelItem => item.ExpectedDeliveryDate)</p>
+                <br />
+            </div>
+        </div>
+    </div>*@
+
+@section scripts {
+    <script>
+        $(function () {
+            var successmessage = '@TempData["SuccessMessage"]';
+            if (successmessage != '')
+                alertify.success(successmessage);
+        });
+    </script>
+}

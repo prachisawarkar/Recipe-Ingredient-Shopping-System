@@ -1,0 +1,688 @@
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+C:\Users\Sakshi\Downloads\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+C:\Users\DHOR\Desktop\final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+F:\Capgemini\SPRINT2\Saturday Project\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+C:\Users\DHOR\Desktop\Prachi\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+C:\Users\Sakshi\Desktop\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\TokenAuthenticaton.pdb
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.exe.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csc.rsp
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.exe.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\csi.rsp
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.AppContext.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Collections.Immutable.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Console.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Globalization.Calendars.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Http.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Net.Sockets.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Reflection.Metadata.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.ValueTuple.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.exe.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\vbc.rsp
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\roslyn\VBCSCompiler.exe.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Owin.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Cors.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.pdb
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\RecipeIngredientShoppingSystem.DataEntity.dll.config
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\EntityFramework.SqlServer.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Cors.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Newtonsoft.Json.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Net.Http.Formatting.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\System.Web.Http.WebHost.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csprojAssemblyReference.cache
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CoreCompileInputs.cache
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.csproj.CopyComplete
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.dll
+F:\Capgemini\SPRINT2\Final\RecipeIngredientShoppingSystem\TokenAuthenticaton\obj\Debug\TokenAuthenticaton.pdb

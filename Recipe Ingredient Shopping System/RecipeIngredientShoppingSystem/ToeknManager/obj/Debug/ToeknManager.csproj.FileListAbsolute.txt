@@ -1,0 +1,36 @@
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csprojAssemblyReference.cache
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\bin\Debug\ToeknManager.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\bin\Debug\ToeknManager.pdb
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csproj.CopyComplete
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.dll
+C:\Users\DhanyaSri\source\repos\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.pdb
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\bin\Debug\ToeknManager.dll
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\bin\Debug\ToeknManager.pdb
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csprojAssemblyReference.cache
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csproj.CoreCompileInputs.cache
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.csproj.CopyComplete
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.dll
+C:\Users\Sakshi\Downloads\ConsultancyApp\ToeknManager\obj\Debug\ToeknManager.pdb
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\ToeknManager.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\ToeknManager.pdb
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\Newtonsoft.Json.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\Newtonsoft.Json.xml
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csprojAssemblyReference.cache
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csproj.CoreCompileInputs.cache
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csproj.CopyComplete
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.dll
+D:\dotnet training\sprint2\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.pdb
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\ToeknManager.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\ToeknManager.pdb
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csprojAssemblyReference.cache
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csproj.CoreCompileInputs.cache
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.csproj.CopyComplete
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.dll
+C:\Users\Vijju\Desktop\Sprint2\New folder\RecipeIngredientShoppingSystem\ToeknManager\obj\Debug\ToeknManager.pdb

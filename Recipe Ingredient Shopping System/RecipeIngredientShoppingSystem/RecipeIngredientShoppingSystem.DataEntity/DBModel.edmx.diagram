@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e19e237e3e704d2b84b647fb558d74eb" Name="Diagram1">
+        <EntityTypeShape EntityType="Sprint1Model.Cart" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.CartRepository" Width="1.5" PointX="6" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.Customer" Width="1.5" PointX="2.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.Ingredient" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.OrderIngredient" Width="1.5" PointX="3" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.Recipe" Width="1.5" PointX="1.5" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.Shipping" Width="1.5" PointX="5.25" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.sysdiagram" Width="1.5" PointX="4.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Sprint1Model.UserLogin" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <AssociationConnector Association="Sprint1Model.FK__Cart__Ingredient__2CBDA3B5" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__Cart__UserID__2BC97F7C" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__CartRepos__Ingre__318258D2" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__CartRepos__UserI__308E3499" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__Ingredien__Recip__28ED12D1" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__OrderIngr__UserI__345EC57D" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__Shipping__OrderI__373B3228" ManuallyRouted="false" />
+        <AssociationConnector Association="Sprint1Model.FK__Shipping__UserID__382F5661" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

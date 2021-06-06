@@ -1,0 +1,184 @@
+﻿@model RecipeIngredientShoppingSystem.DataEntity.UserLogin
+
+
+
+@{ ViewBag.Title = "Signup"; }
+
+
+
+<style>
+    .loginlabels {
+        font-size: x-large
+    }
+
+    .Signup {
+        margin-right: 57px;
+        font-size: 18px;
+    }
+
+
+    .form-control {
+        font-size: larger
+    }
+
+
+
+
+    .btn:hover {
+        background-image: none;
+        background-color: rgba(0, 78, 137, 0.5);
+    }
+    .passwordfield > input {
+        width: 314px;
+        height: 32px;
+        border: 1.5px solid lightgrey;
+        border-radius: 5px;
+    }
+</style>
+
+<div class="navbar navbar-fixed-top navbardiv">
+    <div class="container">
+        <div class="col-lg-5">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @*@Html.ActionLink("Recipe Ingredient Shopping", "Index", "HomeMvc", new { area = "" }, new { @class = "navbar-brand navheading" })*@
+                <a class="navbar-brand" href="#" style="font-family: 'Lucida Handwriting'; font-size:x-large; font-weight: 900;">Recipe Ingredient Shopping</a>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="navbar-collapse collapse pull-right">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Login", "Login", "Login")</li>
+                    <li>@Html.ActionLink("Register", "Signup", "Login")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<h2 class="text-center" style="padding-left:520px"><b> Signup</b></h2>
+
+
+
+@using (Html.BeginForm())
+{
+@Html.AntiForgeryToken()
+
+
+
+                <div class="form-horizontal">
+                    @*<h4>UserLogin</h4>*@
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    @*<div class="form-group">
+                            @Html.LabelFor(model => model.UserId, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                @Html.EditorFor(model => model.UserId, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.UserId, "", new { @class = "text-danger" })
+                            </div>
+                        </div>*@
+                    <div class="col-md-4">
+                        <div class="col-md-1 text-left">
+                            @*<img src="~/Images/SPICES_ANIMATION-2_blog.gif" class="img-circle"  height="360px" width="400px">*@
+                            <img src="~/Images/20171016_223112.gif" class="img-rounded" height="400px" width="400px">
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="form-group text-right" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5 text-right">
+                                @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group " style="font-size:x-large;">
+                            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5 passwordfield">
+                                @Html.PasswordFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.SecurityQuestion, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.SecurityQuestion, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.SecurityQuestion, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.SecurityAnswer, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.SecurityAnswer, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.SecurityAnswer, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.Role, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Role, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.MobileNumber, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.MobileNumber, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.MobileNumber, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group" style="font-size:x-large;">
+                            @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = "control-label col-md-5" })
+                            <div class="col-md-5">
+                                @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+
+
+                        <div class="form-group text-right">
+                            <div class="col-md-offset-2 col-md-6">
+                                <input type="submit" value="SignUp" class="btn btn-default btn-lg" />
+                            </div>
+                        </div>
+                    </div>
+                </div>}
+
+
+
+<div class="text-right Signup" style="font-weight:bold">
+    @Html.ActionLink("Click to login", "Login")
+</div>
